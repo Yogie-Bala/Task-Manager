@@ -195,7 +195,7 @@ const Login = ({ onLogin }) => {
                                     WebkitTextFillColor: 'transparent',
                                 }}
                             >
-                                LogIn
+                                Log In
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
                                 Please sign in to access your account
